@@ -9,7 +9,8 @@ Research project of Computer Vision - CSCI-GA.2271-001 Fall 20
 Md Salman Rahman(salman@nyu.edu) and Wonkwon Lee (wl2733@nyu.edu)
 
 ## Summary
-This research work provides a fair and in-depth out-of-distribution robustness comparison between the state-of-the-art computer vision model such as Vision Transformers, CNNs. 
+This research work provides a fair and in-depth out-of-distribution robustness comparison between the state-of-the-art computer vision model such as vision transformers, convolution, combination of convolution and attention, multi layer perceptron, sequence-based model,
+complementary search, and network-based model. 
 
 ## Abstract
 The vision transformer (ViT) has advanced to the cutting
