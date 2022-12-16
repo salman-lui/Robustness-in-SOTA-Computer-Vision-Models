@@ -3,4 +3,3 @@ torchvision
 pyyaml
 huggingface_hub
 timms
-#model
